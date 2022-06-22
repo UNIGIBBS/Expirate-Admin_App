@@ -24,7 +24,7 @@ Info Page                  | Product Add Page          | Market Profile
 * [Buket Bayık](https://github.com/buketbyk)
 * [Beyza Göncüler](https://github.com/BeyzaGonculer)
 * [Ismayil Allahverdiyev](https://github.com/ismayil-allahverdiyev)
-* [guleserkaba](https://github.com/guleserkaba)
+* [Güleser Kaba](https://github.com/guleserkaba)
 
 
 
