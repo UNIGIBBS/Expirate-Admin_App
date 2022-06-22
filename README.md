@@ -22,7 +22,7 @@ Signin Page                |  Signup Page              | Signup Page
 
 Info Page                  | Product Add Page          | Market Profile            
 :-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/UNIGIBBS/Expirate-Admin_App/blob/master/images/Info%20Page.png?raw=true)|![](https://github.com/UNIGIBBS/Expirate-Admin_App/blob/master/images/Product%20Add%20Page.png?raw=true)|![](https://github.com/UNIGIBBS/Expirate-Admin_App/blob/master/images/Market%20Profile.png?raw=true)|
+![](https://github.com/UNIGIBBS/Expirate-Admin_App/blob/master/images/Info%20Page.png?raw=true)|![](https://github.com/UNIGIBBS/Expirate-Admin_App/blob/master/images/Product%20Add%20Page.png?raw=true)|![](https://github.com/UNIGIBBS/Expirate-Admin_App/blob/master/images/Market%20Profile%20Page.png?raw=true)|
 
 ## Contributors
 * [Buket Bayık](https://github.com/buketbyk)
