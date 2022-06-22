@@ -27,6 +27,8 @@ Info Page                  | Product Add Page          | Market Profile
 * [Güleser Kaba](https://github.com/guleserkaba)
 
 
+<td align="center"><a href="https://github.com/buketbyk"><img src="![image](https://user-images.githubusercontent.com/59339202/175022630-01e96c30-1e05-4989-b892-65e611ff3c87.png)" width="100px;" alt=""/><br /><sub><b>Buket Bayık</b></sub></a><br td>
+
 
 
 
