@@ -11,18 +11,20 @@ Market application that works for zero hunger from sustainability goals using fi
 
 ## Screenshots
 
-Signin Page            |  Signup Page            | Signup Page               
+Signin Page                |  Signup Page              | Signup Page               
 :-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/UNIGIBBS/Expirate-Admin_App/blob/master/images/Sign%20In%20Page.png)|
-![](https://github.com/UNIGIBBS/Expirate-Admin_App/blob/master/images/Sign%20Up%20Page.png)|
-![](https://github.com/UNIGIBBS/Expirate-Admin_App/blob/master/images/Profile%20Page.png)|
+![](https://github.com/UNIGIBBS/Expirate-Admin_App/blob/master/images/Sign%20In%20Page.png?raw=true)|
+![](https://github.com/UNIGIBBS/Expirate-Admin_App/blob/master/images/Sign%20Up%20Page.png?raw=true)|
+![](https://github.com/UNIGIBBS/Expirate-Admin_App/blob/master/images/Profile%20Page.png?raw=true)|
 
 
-Info Page           |  Product Add Page           | Market Profile            
+Info Page                  | Product Add Page          | Market Profile            
 :-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/UNIGIBBS/Expirate-Admin_App/blob/master/images/Info%20Page.png)|
-![](https://github.com/UNIGIBBS/Expirate-Admin_App/blob/master/images/Product%20Add%20Page.png)|
-![](https://github.com/UNIGIBBS/Expirate-Admin_App/blob/master/images/Market%20Profile.png)|
+![](https://github.com/UNIGIBBS/Expirate-Admin_App/blob/master/images/Info%20Page.png?raw=true)|
+![](https://github.com/UNIGIBBS/Expirate-Admin_App/blob/master/images/Product%20Add%20Page.png?raw=true)|
+![](https://github.com/UNIGIBBS/Expirate-Admin_App/blob/master/images/Market%20Profile.png?raw=true)|
+
+
 
 
 
