@@ -18,14 +18,13 @@ Signin Page                |  Signup Page              | Signup Page
 
 Info Page                  | Product Add Page          | Market Profile            
 :-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/UNIGIBBS/Expirate-Admin_App/blob/master/images/Info%20Page.png?raw=true)|
-![](https://github.com/UNIGIBBS/Expirate-Admin_App/blob/master/images/Product%20Add%20Page.png?raw=true)|
-![](https://github.com/UNIGIBBS/Expirate-Admin_App/blob/master/images/Market%20Profile.png?raw=true)|
+![](https://github.com/UNIGIBBS/Expirate-Admin_App/blob/master/images/Info%20Page.png?raw=true)|![](https://github.com/UNIGIBBS/Expirate-Admin_App/blob/master/images/Product%20Add%20Page.png?raw=true)|![](https://github.com/UNIGIBBS/Expirate-Admin_App/blob/master/images/Market%20Profile.png?raw=true)|
 
-
-Welcome Page               |  Login Page               | Signup Page               |  Forgot Password Page
-:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/Auth/screenshot_1.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/Auth/screenshot_2.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/Auth/screenshot_3.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/Auth/screenshot_4.jpg?raw=true)|
+## Contributors
+* [Buket Bayık](https://github.com/buketbyk)
+* [Beyza Göncüler](https://github.com/BeyzaGonculer)
+* [Ismayil Allahverdiyev](https://github.com/ismayil-allahverdiyev)
+* [guleserkaba](https://github.com/guleserkaba)
 
 
 
