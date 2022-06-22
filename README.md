@@ -1,16 +1,18 @@
-# comp_part1_2
+## Expirate - Admin App
 
-A new Flutter project.
+Market application that works for zero hunger from sustainability goals using firebase auth, firestore database and storage
 
-## Getting Started
+## Features
+:boom: Expirate app uses both `Firebase Auth` and `firestore` database. :boom:
+* Add Page allows adding products and applying discounts.
+* **Market Page** offers the possibility to edit the market profile.
+* **Market Profile** consists of name, address and added products.
+* **Map** can be used for location information and can be directed to **Google Maps**.
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
