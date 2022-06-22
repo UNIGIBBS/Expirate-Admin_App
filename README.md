@@ -4,6 +4,7 @@ Market application that works for zero hunger from sustainability goals using fi
 
 ## Features
 * For User App [Click here](https://github.com/UNIGIBBS/Expirate-User_app)
+
 :boom: Expirate app uses both `Firebase Auth` and `firestore` database. :boom:
 * Add Page allows adding products and applying discounts.
 * **Market Page** offers the possibility to edit the market profile.
