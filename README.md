@@ -3,11 +3,14 @@
 Market application that works for zero hunger from sustainability goals using firebase auth, firestore database and storage
 
 ## Features
+* For User App [Click here](https://github.com/UNIGIBBS/Expirate-User_app)
 :boom: Expirate app uses both `Firebase Auth` and `firestore` database. :boom:
 * Add Page allows adding products and applying discounts.
 * **Market Page** offers the possibility to edit the market profile.
 * **Market Profile** consists of name, address and added products.
 * **Map** can be used for location information and can be directed to **Google Maps**.
+
+
 
 ## Screenshots
 
@@ -27,7 +30,6 @@ Info Page                  | Product Add Page          | Market Profile
 * [Güleser Kaba](https://github.com/guleserkaba)
 
 
-<td align="center"><a href="https://github.com/buketbyk"><img src="![image](https://user-images.githubusercontent.com/59339202/175022630-01e96c30-1e05-4989-b892-65e611ff3c87.png)" width="100px;" alt=""/><br /><sub><b>Buket Bayık</b></sub></a><br td>
 
 
 
